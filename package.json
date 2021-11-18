@@ -1,0 +1,14 @@
+{
+  "name": "pair-coding-sessions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nhanhoangtrong/pair-coding-sessions.git",
+  "author": "Nhan Hoang trong <nhan.hoang2@tiki.vn>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/main.js"
+  },
+  "dependencies": {
+    "fastify": "^3.24.0"
+  }
+}
